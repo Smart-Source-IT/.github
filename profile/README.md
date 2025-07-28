@@ -2,52 +2,45 @@
 
 Connecting your vision with technological excellence!
 
-SmartSource IT is your strategic partner in the world of technology. We are dedicated to providing comprehensive IT solutions and specialized talent to boost your business's growth and efficiency.
+SmartSource IT is your strategic partner in the world of technology. We have the expertise and knowledge to offer impartial advice and services at an honest price, helping you build a flourishing business.
 
 ---
 
-##  Our Mission
+##  Our Services
 
-At SmartSource IT, our mission is simple yet powerful: **to provide our clients with the best talent and the most innovative technology solutions in the industry, whether for a short-term project or a long-term hire.**
+We specialize in delivering high-quality IT solutions worldwide. Our core services include:
 
-We are passionate about connecting businesses with the right professionals and tools to achieve their most ambitious goals.
-
----
-
-##  What We Do
-
-Our expertise spans the entire IT spectrum, from infrastructure to the complete software development lifecycle. We specialize in:
-
-* **IT Staffing:** Sourcing and placing the most qualified IT professionals, from network engineers and technical support to application developers and architects.
-* **Infrastructure Solutions:** Management, monitoring, and optimization of your technology infrastructure.
-* **Cybersecurity:** Protecting your digital assets with robust and proactive solutions.
-* **Microsoft 365 Licensing & Management:** Consulting, supply, and management of your Microsoft licenses.
-* **Backup & Disaster Recovery:** Plans and solutions to ensure your business continuity.
-* **Help Desk Solutions:** Efficient and accessible technical support for your teams.
-* **Technology Consulting:** Expert advice for your systems' strategy and optimization.
-* **Event Solutions & Technology Rental:** From audiovisual equipment to laptop and device rental for events and projects.
+* **Software Development:** Turnkey and fixed-price projects, time & materials, or staff augmentation to seamlessly scale your team.
+* **TechOps:** Comprehensive Level 1 & 2 Service Desk and robust infrastructure support.
+* **SysOps & DevOps:** Designing and implementing CI/CD pipelines, cloud automation, and continuous system monitoring.
+* **Project Management:** Expert management throughout the full project development lifecycle using PMI waterfall, Scrum, and Agile methodologies.
+* **Mobile & App Development:** Crafting innovative iOS, Android, and cross-platform solutions.
+* **AR/VR Solutions:** Partnering with you to deliver cutting-edge immersive experiences.
 
 ---
 
-##  Why Choose Us
+##  Why Choose Us?
 
-* **Comprehensive Expertise:** We cover all your IT needs with a highly qualified team.
-* **First-Class Talent:** Rigorous selection process to ensure the best professionals.
-* **Tailored Solutions:** We adapt to your specific requirements, no "one-size-fits-all" solutions.
-* **Dedicated Support:** Continuous assistance to guarantee the success of your projects.
-* **Extensive Network:** Access to a vast network of talent and technological resources.
+We are the right team for your business. When you connect with us, you aren’t growing your business alone. We have your back and put in our best to contribute to the growth of your entire team and organization.
+
+* **Global Talent:** Access to highly skilled professionals from South America and Australasia.
+* **Rapid Team Onboarding:** Get your dedicated team up and running in days, ensuring quick project initiation.
+* **Seamless Communication:** We offer onshore, nearshore, and offshore models tailored to suit your needs and communication preferences.
+* **Flexible & Competitive Rates:** Benefit from cost-effective solutions carefully tailored to your budget.
+* **Proven Track Record:** Years of experience delivering high-quality IT solutions worldwide, with a history of successful partnerships.
 
 ---
 
 ##  Connect With Us
 
-Ready to take your technology to the next level? We'd love to hear from you!
+Ready to get started today? We'd love to help you build a good online presence and bring in more conversions and revenue!
 
-* **Visit our Website:** [https://smartsourceit.com.au](https://smartsourceit.com.au)
-* **Contact Us:** [Your email address or contact link here]
-* **Follow us on LinkedIn:** [Link to your LinkedIn page here]
-* **Explore our Repositories:** Check out our projects and contributions right here on GitHub!
+* **Email Us:** [info@smartsourceit.com.au](mailto:info@smartsourceit.com.au)
+* **Stay Tuned!** Our full website is coming soon, but you can always reach out directly.
+* **Explore our Repositories:** Discover our projects and contributions right here on GitHub!
 
 ---
 
-**SmartSource IT - Your trusted technology partner.**
+**SmartSource IT - Your trusted technology partner in innovation and growth.**
+
+*Smart Source IT acknowledges the Traditional Custodians of Country throughout Australia and their continuing connection to land, waters, and knowledge. We recognize the strength and resilience of Aboriginal and Torres Strait Islander peoples and their contributions to innovation and storytelling, past and present.*
